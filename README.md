@@ -1,5 +1,7 @@
 This was a group project between me and 3 other students in CPT_S 122 at WSU in April and May, 2020. We modeled our gameplay after the classic Atari racing game, Indy 500. This is our spiritual sequel to it, in a sense. We utilized SFML graphics.
 
+Note: The gameplay in the video demo appears choppy because of recording issues. The actual gameplay is smooth.
+
 Students:
 Aayush Bajoria, Lab Section 14
 Gabriel Byram, Lab Section 5
