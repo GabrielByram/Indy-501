@@ -1,4 +1,4 @@
-# PA9
+This was a group project between me and 3 other students in CPT_S 122 at WSU in April and May, 2020. We modeled our gameplay after the classic Atari racing game, Indy 500. This is our spiritual sequel to it, in a sense. We utilized SFML graphics.
 
 Students:
 Aayush Bajoria, Lab Section 14
@@ -6,9 +6,13 @@ Gabriel Byram, Lab Section 5
 Steven Subianto, Lab Section 3
 Oliver Rogers, Lab Section 14
 
-Make sure you are in debug properties
+Instructions for running this game:
 
-SFML Setup
+(After downloading SFML)
+
+Make sure you are in debug properties.
+
+SFML Setup:
 Under Project Properties - Linker - Input - Additional Dependicies; add the following
 winmm.lib
 opengl32.lib
